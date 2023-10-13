@@ -1,9 +1,13 @@
 {
-.appVersion = "3219";
+.appVersion = "3221";
 .formatVersion = 3;
 DisplayStrings = (
 "~",
-Heebo
+Heebo,
+"י",
+"ײ",
+"ו",
+"װ"
 );
 axes = (
 {
@@ -105047,9 +105051,15 @@ unicode = 64330;
 {
 color = 10;
 glyphname = "vavvav-hb";
-lastChange = "2023-10-04 11:24:59 +0000";
+lastChange = "2023-10-13 15:15:19 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (557,0);
+}
+);
 background = {
 anchors = (
 {
@@ -105107,6 +105117,12 @@ ref = "vav-hb";
 width = 1036;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (688,0);
+}
+);
 background = {
 anchors = (
 {
@@ -105170,6 +105186,12 @@ com.schriftgestaltung.componentsAlignment = (
 width = 1373;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (634,0);
+}
+);
 background = {
 anchors = (
 {
@@ -105429,9 +105451,15 @@ unicode = 1521;
 {
 color = 10;
 glyphname = "yodyod-hb";
-lastChange = "2023-10-04 11:24:59 +0000";
+lastChange = "2023-10-13 15:13:23 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (614,0);
+}
+);
 background = {
 anchors = (
 {
@@ -105489,6 +105517,12 @@ ref = "yod-hb";
 width = 1084;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (784,0);
+}
+);
 background = {
 anchors = (
 {
@@ -105552,6 +105586,12 @@ com.schriftgestaltung.componentsAlignment = (
 width = 1495;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (679,0);
+}
+);
 background = {
 anchors = (
 {
@@ -105620,7 +105660,7 @@ unicode = 1522;
 {
 color = 10;
 glyphname = "yodyodpatah-hb";
-lastChange = "2023-10-04 11:24:59 +0000";
+lastChange = "2023-10-13 15:15:21 +0000";
 layers = (
 {
 background = {
@@ -105682,7 +105722,7 @@ shapes = (
 ref = "yodyod-hb";
 },
 {
-pos = (-220,0);
+pos = (51,0);
 ref = "patah-hb";
 }
 );
@@ -105748,7 +105788,7 @@ shapes = (
 ref = "yodyod-hb";
 },
 {
-pos = (-240,0);
+pos = (133,0);
 ref = "patah-hb";
 }
 );
@@ -105820,7 +105860,7 @@ shapes = (
 ref = "yodyod-hb";
 },
 {
-pos = (-228,0);
+pos = (111,2);
 ref = "patah-hb";
 }
 );

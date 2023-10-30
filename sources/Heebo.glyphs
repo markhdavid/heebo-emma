@@ -105658,6 +105658,53 @@ width = 1237;
 unicode = 1522;
 },
 {
+glyphname = uniFB1D;
+lastChange = "2023-10-20 04:01:56 +0000";
+layers = (
+{
+layerId = "445B0B85-2678-4800-8A4D-B1A9856CF63B";
+shapes = (
+{
+pos = (-228,0);
+ref = "hiriq-hb";
+},
+{
+ref = "yod-hb";
+}
+);
+width = 542;
+},
+{
+layerId = "275CACE8-FD52-4067-B7BC-43A450B7EDC9";
+shapes = (
+{
+pos = (-231,0);
+ref = "hiriq-hb";
+},
+{
+ref = "yod-hb";
+}
+);
+width = 628;
+},
+{
+layerId = "20EE6398-45C7-446F-8F4E-C33CF1AD7937";
+shapes = (
+{
+pos = (-240,0);
+ref = "hiriq-hb";
+},
+{
+ref = "yod-hb";
+}
+);
+width = 747;
+}
+);
+note = uniFB1D;
+unicode = 64285;
+},
+{
 color = 10;
 glyphname = "yodyodpatah-hb";
 lastChange = "2023-10-13 15:15:21 +0000";
